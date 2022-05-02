@@ -1,0 +1,16 @@
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ejerciciopairprograming.exe
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ejerciciopairprograming.deps.json
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ejerciciopairprograming.runtimeconfig.json
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ejerciciopairprograming.runtimeconfig.dev.json
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ejerciciopairprograming.dll
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ref\ejerciciopairprograming.dll
+D:\visualstudio\ejerciciopairprograming\bin\Debug\net5.0\ejerciciopairprograming.pdb
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.csproj.AssemblyReference.cache
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.AssemblyInfoInputs.cache
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.AssemblyInfo.cs
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.csproj.CoreCompileInputs.cache
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.dll
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ref\ejerciciopairprograming.dll
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.pdb
+D:\visualstudio\ejerciciopairprograming\obj\Debug\net5.0\ejerciciopairprograming.genruntimeconfig.cache
